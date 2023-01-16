@@ -1,0 +1,25 @@
+html{
+    font-family:sans-serif;
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+}
+body{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #d2d6de;
+    color: #444;
+}
+.login-logo{
+    font-size:35px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 300;
+}
+.login-footer{
+    background-color:#373E4A;
+}
+.img-logo{
+    width: 100px;
+    height: 100px;
+    align-items: center;
+}
